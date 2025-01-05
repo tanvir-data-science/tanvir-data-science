@@ -6,13 +6,8 @@
 
 <p>💼 I'm passionate about working on <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Big Data</strong> projects. My focus is on solving complex problems with data and creating actionable insights that make an impact.</p>
 
-<p>🛠️ I work with 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
- <a href="msexcel" target="_blank" rel="noreferrer"> <img src="https://seekvectors.com/post/microsoft-excel-logo" alt="excel" width="40" height="40"/> </a>
-</p>
+<p>🛠️ I work with <strong>Python</strong>, <strong>Power BI</strong>, <strong>MS Excel</strong>, <strong>SQL</strong>, and various <strong>Machine Learning</strong> libraries such as <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Seaborn</strong>, and <strong>Matplotlib</strong> to bring data to life.</p>
 
 <p>🌱 I'm currently expanding my knowledge in <strong>AI</strong>, <strong>Big Data Technologies</strong>, and <strong>Advanced Analytics</strong>. Let's connect and innovate together!</p>
 
-<p>🔗 <strong>Feel free to explore my projects</strong> and learn more about the work I’m doing to push the boundaries of data science.</p>
-
-
+<p>🔗 Feel free to explore my projects and learn more about the work I’m doing to push the boundaries of data science.</p>
