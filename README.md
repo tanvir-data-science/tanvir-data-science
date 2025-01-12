@@ -48,7 +48,7 @@
   </a>
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://i0.wp.com/fdtec.co/wp-content/uploads/2023/09/BI1.webp?fit=1200%2C1200&ssl=1" alt="powerbi" width="75" height="85" style="margin-right: 40px;"/>
+    <img src="https://i0.wp.com/fdtec.co/wp-content/uploads/2023/09/BI1.webp?fit=1200%2C1200&ssl=1" alt="powerbi" width="75" height="85" style="margin-right: 90px;"/>
   </a>
   <!-- Excel -->
   <a href="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" target="_blank" rel="noreferrer">
