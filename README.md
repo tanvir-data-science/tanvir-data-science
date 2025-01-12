@@ -40,7 +40,7 @@
   </a>
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Power_BI_Logo.svg" alt="powerbi" width="55" height="40"/>
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/PNG/Power-BI.png" alt="powerbi" width="55" height="40"/>
   </a>
   <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
