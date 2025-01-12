@@ -55,7 +55,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- MS Office -->
-  <a href="https://1000logos.net/microsoft-office-logo/" target="_blank" rel="noreferrer">
+  <a href="https://swisssoftware24.ch/wp-content/uploads/2023/03/MicrosoftWord21.jpg" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="90" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- PowerPoint -->
