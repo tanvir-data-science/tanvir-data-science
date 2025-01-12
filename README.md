@@ -20,7 +20,7 @@
 <p>🌱 I'm currently expanding my knowledge in <strong>AI</strong>, <strong>Big Data Technologies</strong>, and <strong>Advanced Analytics</strong>. Let's connect and innovate together!</p>
 
 <p>🔗 Feel free to explore my projects and learn more about the work I’m doing to push the boundaries of data science.</p>
-
+<h3 align="left">🛠 Language and tools</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="40"/>
