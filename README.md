@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="40"/>
   </a>
   <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Power_BI_Logo.png" alt="powerbi" width="55" height="40"/>
   </a>
   <!-- Excel -->
