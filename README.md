@@ -1,13 +1,11 @@
 <h1>👋 Hello, I'm Md Tanvir Hasan!</h1>
 
+<p>🎓 <strong>MSc in Data Science</strong> | 🚀 <strong>Machine Learning Enthusiast</strong> | 💡 <strong>Passionate about Data & Analytics</strong></p>
 <div align="center">
   <a href="https://www.linkedin.com/in/tanvir-fau/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
-
-
-<p>🎓 <strong>MSc in Data Science</strong> | 🚀 <strong>Machine Learning Enthusiast</strong> | 💡 <strong>Passionate about Data & Analytics</strong></p>
 
 <p>🔍 I’m a Data Scientist from Bangladesh currently pursuing my <strong>Master's in Data Science</strong> at <strong>Friedrich Alexander University, Germany</strong>. My journey in data is driven by curiosity, research, and a constant desire to <strong>learn and grow</strong>.</p>
 
