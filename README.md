@@ -60,7 +60,7 @@
   </a>
   <!-- PowerPoint -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_PowerPoint_2013_logo.svg" alt="powerpoint" width="60" height="75" style="margin-right: 20px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="60" height="75" style="margin-right: 20px;"/>
   </a>
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
