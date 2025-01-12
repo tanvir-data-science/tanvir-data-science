@@ -53,14 +53,14 @@
   <!-- Excel -->
   <a href="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="75" height="85" style="margin-right: 40px;"/>
-  </a>
-  <!-- MS Office -->
-  <a href="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="0" height="85" style="margin-right: 40px;"/>
-  </a>
   <!-- PowerPoint -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="75" height="85" style="margin-right: 40px;"/>
+  </a>
+      </a>
+  <!-- MS Office -->
+  <a href="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" target="_blank" rel="noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="0" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
