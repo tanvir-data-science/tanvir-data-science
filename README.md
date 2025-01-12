@@ -48,15 +48,15 @@
   </a>
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://i0.wp.com/fdtec.co/wp-content/uploads/2023/09/BI1.webp?fit=1200%2C1200&ssl=1" alt="powerbi" width="65" height="75" style="margin-right: 90px;"/>
+    <img src="https://i0.wp.com/fdtec.co/wp-content/uploads/2023/09/BI1.webp?fit=1200%2C1200&ssl=1" alt="powerbi" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- Excel -->
   <a href="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="75" height="85" style="margin-right: 0px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- MS Office -->
   <a href="https://1000logos.net/microsoft-office-logo/" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="150" height="75" style="margin-right: 60px;"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- PowerPoint -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
@@ -67,7 +67,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="75" height="85" style="margin-right: 40px;"/>
   </a>
 </p>
-
 
 
 
