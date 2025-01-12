@@ -56,7 +56,7 @@
   </a>
   <!-- MS Office -->
   <a href="https://1000logos.net/microsoft-office-logo/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_logo_2013.svg" alt="ms office" width="60" height="75" style="margin-right: 20px;"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="60" height="75" style="margin-right: 20px;"/>
   </a>
   <!-- PowerPoint -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
