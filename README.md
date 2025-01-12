@@ -60,7 +60,7 @@
       </a>
   <!-- MS Office -->
   <a href="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="80" height="85" style="margin-right: 40px;"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="100" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
