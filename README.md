@@ -2,10 +2,10 @@
 
 <p>🎓 <strong>MSc in Data Science</strong> | 🚀 <strong>Machine Learning Enthusiast</strong> | 💡 <strong>Passionate about Data & Analytics</strong></p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/tanvir-fau/" target="blank">
+  <a href="https://www.linkedin.com/in/tanvir-fau/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-   <a href="mailto:official.mdtanvirhasan@gmail.com" target="blank">
+   <a href="mailto:official.mdtanvirhasan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a> 
 </div>
@@ -22,11 +22,11 @@
 <h3 align="left">🛠 Language and tools</h3>
 <p>
   <!-- Python -->
-  <a href="https://www.python.org" target="blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- NumPy -->
-  <a href="https://numpy.org/" target="blank" rel="noreferrer">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- Pandas -->
