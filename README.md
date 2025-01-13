@@ -7,8 +7,7 @@
   </a>
    <a href="mailto:official.mdtanvirhasan@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  
+  </a> 
 </div>
 
 <p>🔍 I’m a Data Scientist from Bangladesh currently pursuing my <strong>Master's in Data Science</strong> at <strong>Friedrich Alexander University, Germany</strong>. My journey in data is driven by curiosity, research, and a constant desire to <strong>learn and grow</strong>.</p>
@@ -23,11 +22,11 @@
 <h3 align="left">🛠 Language and tools</h3>
 <p>
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <a href="https://numpy.org/" target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   <!-- Pandas -->
