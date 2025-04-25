@@ -26,33 +26,23 @@
    
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="85" style="margin-right: 40px;"/>
 
-  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="75" height="85" style="margin-right: 40px;"/>
- 
   
  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="75" height="85" style="margin-right: 40px;"/>
   
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="75" height="85" style="margin-right: 40px;"/>
  
-  
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="75" height="85" style="margin-right: 40px;"/>
  
-  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="75" height="85" style="margin-right: 40px;"/>
 
-  
 <img src="https://i0.wp.com/fdtec.co/wp-content/uploads/2023/09/BI1.webp?fit=1200%2C1200&ssl=1" alt="powerbi" width="75" height="85" style="margin-right: 40px;"/>
 
-  
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="75" height="85" style="margin-right: 40px;"/>
     
- 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="75" height="85" style="margin-right: 40px;"/>
  
-
 <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="0" height="85" style="margin-right: 40px;"/>
-
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="75" height="85" style="margin-right: 40px;"/>
  
