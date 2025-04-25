@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Md Tanvir Hasan!</h1>
+<h1>👋 Hello, I'm Md Tanvir Hasan</h1>
 
 <p>🎓 <strong>MSc in Data Science</strong> | 🚀 <strong>Machine Learning Enthusiast</strong> | 💡 <strong>Passionate about Data Analytics</strong></p>
 <div align="center">
