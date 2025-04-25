@@ -23,12 +23,12 @@
 <p>
    
   <!--Python-->  
-  <a href="https://www.python.org" target="blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   
-  <NumPy>
-  <a href="https://numpy.org/" target="blank" rel="noreferrer">
+  <!--NumPy-->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   
