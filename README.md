@@ -22,7 +22,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 <p>
    
-  <Python>  
+  <!--Python-->  
   <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="85" style="margin-right: 40px;"/>
   </a>
