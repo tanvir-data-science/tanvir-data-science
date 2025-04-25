@@ -38,42 +38,41 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   
- <!-- Matplotlib -->
+ <Matplotlib>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   
-<!-- Seaborn -->
+<Seaborn>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   
-  <!-- PyTorch -->
+  <PyTorch>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   
-  <!-- Power BI -->
+  <Power BI>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://i0.wp.com/fdtec.co/wp-content/uploads/2023/09/BI1.webp?fit=1200%2C1200&ssl=1" alt="powerbi" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   
-  <!-- Excel -->
+  <Excel>
   <a href="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="75" height="85" style="margin-right: 40px;"/>
     
-  <!-- PowerPoint -->
+  <PowerPoint>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="75" height="85" style="margin-right: 40px;"/>
   </a>
   
-      </a>
-  <!-- MS Office -->
+  <MS Office>
   <a href="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="0" height="85" style="margin-right: 40px;"/>
   </a>
   
-  <!-- GitHub -->
+  <GitHub>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="75" height="85" style="margin-right: 40px;"/>
   </a>
