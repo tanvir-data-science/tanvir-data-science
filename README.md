@@ -32,7 +32,7 @@
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="75" height="85" style="margin-right: 40px;"/>
  
-<img src="file:///C:/Users/tanvir/Downloads/scikit-learn-logo-png_seeklogo-337685.svg" alt="seaborn" width="75" height="85" style="margin-right: 40px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="75" height="85" style="margin-right: 40px;"/>
 
  <img src="https://images.seeklogo.com/logo-png/33/1/scikit-learn-logo-png_seeklogo-337685.png" alt="seaborn" width="75" height="85" style="margin-right: 40px;"/>
  
