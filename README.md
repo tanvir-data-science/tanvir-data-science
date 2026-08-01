@@ -42,8 +42,6 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="75" height="85" style="margin-right: 40px;"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_PowerPoint_2019-present.svg" alt="Microsoft PowerPoint" width="75" height="85" style="margin-right: 40px;"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="75" height="85" style="margin-right: 40px;"/>
 
 </p>
