@@ -34,7 +34,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="75" height="85" style="margin-right: 40px;"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="75" height="85" style="margin-right: 40px;"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="120" height="80" style="margin-right: 40px;"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="75" height="85" style="margin-right: 40px;"/>
 
