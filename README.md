@@ -40,7 +40,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="60"/>
 
-<img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" alt="Microsoft Office" width="75" height="85" style="margin-right: 40px;"/>
+<img src="https://cdn.simpleicons.org/microsoftoffice" alt="Microsoft Office" width="75" height="85" style="margin-right: 40px;"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="75" height="85" style="margin-right: 40px;"/>
 
