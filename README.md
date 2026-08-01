@@ -42,7 +42,7 @@
     
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="75" height="85" style="margin-right: 40px;"/>
  
-<img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="ms office" width="0" height="85" style="margin-right: 40px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg" alt="ms office" width="0" height="85" style="margin-right: 40px;"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="75" height="85" style="margin-right: 40px;"/>
  
