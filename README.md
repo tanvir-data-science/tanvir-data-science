@@ -43,7 +43,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="75" height="85" style="margin-right: 40px;"/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="75" height="85" style="margin: 10px 10px 10px 0.1px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="75" height="85" style="margin: 10px 10px 0.1px 0.1px;"/>
 </p>
 
 
