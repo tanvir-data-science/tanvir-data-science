@@ -44,7 +44,7 @@
 
 <p align="center">
   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="75" height="80" style="margin-left: 150px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="75" height="80" style="margin-left: 1500px;"/>
 
 </p>
 
